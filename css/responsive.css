@@ -57,10 +57,11 @@
   }
 
   .show-content .page-content {
-    overflow: scroll;
+    overflow: auto;
     position: absolute;
     right: 0;
     visibility: visible;
+    min-height: 100vh;
   }
 
   .page-amplitude-wrapper {
