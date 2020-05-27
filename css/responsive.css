@@ -29,7 +29,7 @@
 
   body.vegas-container,
   body {
-    overflow: hidden;
+    overflow-x: hidden;
   }
 
   body.show-content {
@@ -42,7 +42,7 @@
 
   .page-info {
     padding-top: 60px;
-    position: fixed;
+    /* position: fixed; */
   }
 
   .col-transform {

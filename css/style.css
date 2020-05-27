@@ -241,7 +241,7 @@ b {
 }
 
 .bg-dark {
-  background-color: #333;
+  background-color: #070031;
 }
 
 .bg-light {
@@ -1181,4 +1181,13 @@ body.vegas-container > .vegas-slide {
 
 .map h4, .map h5 {
   margin-top: 0;
+}
+
+#Layer_1 {
+  max-width: 600px;
+  /* width: 100%; */
+  /* margin-right: auto;
+  margin-left: auto; */
+  /* display: block; */
+
 }
